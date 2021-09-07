@@ -6,7 +6,8 @@
         {
             MazeGame mazeGame = new MazeGame();
             //MazeFactory mazeFactory = new MazeFactory();
-            EnchantedMazeFactory mazeFactory = new EnchantedMazeFactory();
+            //EnchantedMazeFactory mazeFactory = new EnchantedMazeFactory();
+            BombedMazeFactory mazeFactory = new BombedMazeFactory();
             Maze aMaze = mazeGame.CreateMaze(mazeFactory);
         }
     }
