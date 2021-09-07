@@ -4,7 +4,7 @@
     {
         public override Room MakeRoom(int number)
         {
-            return new EnchantedRoom(number);
+            return new EnchantedRoom(number, GetSpell());
         }
 
         public override Door MakeDoor(Room room1, Room room2)
