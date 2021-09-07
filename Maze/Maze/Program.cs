@@ -1,13 +1,13 @@
-﻿using System;
-
-namespace Maze
+﻿namespace Maze
 {
     class Program
     {
         static void Main(string[] args)
         {
             MazeGame mazeGame = new MazeGame();
-            Maze aMaze = mazeGame.CreateMaze();
+            //MazeFactory mazeFactory = new MazeFactory();
+            EnchantedMazeFactory mazeFactory = new EnchantedMazeFactory();
+            Maze aMaze = mazeGame.CreateMaze(mazeFactory);
         }
     }
 }
