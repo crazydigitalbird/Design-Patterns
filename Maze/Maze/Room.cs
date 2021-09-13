@@ -29,6 +29,18 @@ namespace Maze
             sides.Add(direction, mapSide);
         }
 
+        public void UpdateSide(Direction direction, MapSite mapSite)
+        {
+            if(sides.ContainsKey(direction))
+            {
+                sides[direction] = mapSite;
+            }
+            else
+            {
+                SetSide(direction, mapSite);
+            }
+        }
+
         public int RoomNumber
         {
             get { return roomNumber; }

@@ -2,27 +2,24 @@
 {
     class MazeGame
     {
-        public Maze CreateMaze()
+        public Maze CreateMaze(MazeBuilder builder)
         {
-            Maze aMaze = new Maze();
-            Room r1 = new Room(1);
-            Room r2 = new Room(2);
-            Door theDoor = new Door(r1, r2);
+            builder.BuilderMaze();
+            builder.BuilderRoom(1);
+            builder.BuilderRoom(2);
+            builder.BuilderDoor(1, 2);
 
-            aMaze.AddRoom(r1);
-            aMaze.AddRoom(r2);
+            return builder.GetMaze();
+        }
 
-            r1.SetSide(Direction.North, new Wall());
-            r1.SetSide(Direction.South, new Wall());
-            r1.SetSide(Direction.East, theDoor);
-            r1.SetSide(Direction.West, new Wall());
+        public Maze CreateComplexMaze(MazeBuilder builder)
+        {
+            for (int i = 0; i < 1001; i++)
+            {
+                builder.BuilderRoom(i);
+            }
 
-            r2.SetSide(Direction.North, new Wall());
-            r2.SetSide(Direction.South, new Wall());
-            r2.SetSide(Direction.East, new Wall());
-            r2.SetSide(Direction.West, theDoor);
-
-            return aMaze;
+            return builder.GetMaze();
         }
     }
 }
