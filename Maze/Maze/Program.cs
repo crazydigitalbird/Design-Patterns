@@ -6,7 +6,7 @@ namespace Maze
     {
         static void Main(string[] args)
         {
-            MazeGame mazeGame = new EnchantedMazeGame();
+            MazeGame mazeGame = new BombedMazeGame();
             Maze maze = mazeGame.CreateMaze();
         }
     }
