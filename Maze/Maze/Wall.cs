@@ -10,5 +10,10 @@ namespace Maze
         {
             Console.WriteLine("Wall");
         }
+
+        public virtual Wall Clone()
+        {
+            return new Wall();
+        }
     }
 }

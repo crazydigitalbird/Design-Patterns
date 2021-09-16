@@ -5,10 +5,8 @@
         static void Main(string[] args)
         {
             MazeGame mazeGame = new MazeGame();
-            //MazeFactory mazeFactory = new MazeFactory();
-            //EnchantedMazeFactory mazeFactory = new EnchantedMazeFactory();
-            BombedMazeFactory mazeFactory = new BombedMazeFactory();
-            Maze aMaze = mazeGame.CreateMaze(mazeFactory);
+            MazePrototypeFactory mazePrototypeFactory = new MazePrototypeFactory(new Wall(), new Room(), new Door(), new Maze());
+            Maze aMaze = mazeGame.CreateMaze(mazePrototypeFactory);
         }
     }
 }

@@ -8,6 +8,8 @@ namespace Maze
         int roomNumber;
         Dictionary<Direction, MapSite> sides;
 
+        public Room() { }
+
         public Room(int number)
         {
             this.roomNumber = number;
@@ -33,6 +35,16 @@ namespace Maze
         {
             get { return roomNumber; }
             set { roomNumber = value; }
+        }
+
+        public virtual Room Clone()
+        {
+            return new Room(this.roomNumber);
+        }
+
+        public virtual void Initialize(int number)
+        {
+            this.roomNumber = number;
         }
     }
 }

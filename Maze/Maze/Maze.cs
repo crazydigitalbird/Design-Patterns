@@ -20,5 +20,10 @@ namespace Maze
         {
             return rooms[number];
         }
+
+        public virtual Maze Clone()
+        {
+            return new Maze();
+        }
     }
 }
