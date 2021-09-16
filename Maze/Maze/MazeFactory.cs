@@ -1,7 +1,34 @@
-﻿namespace Maze
+﻿using System;
+
+namespace Maze
 {
     class MazeFactory
     {
+        private static MazeFactory instance = null;
+
+        protected MazeFactory() { }
+
+        public static MazeFactory Instance()
+        {
+            if (instance == null)
+            {
+                string mazeStyle = Environment.GetEnvironmentVariable("MAZESTYLE");
+                if (string.Compare(mazeStyle, "bombed") == 0)
+                {
+                    instance = new BombedMazeFactory();
+                }
+                else if (string.Compare(mazeStyle, "enchanted") == 0)
+                {
+                    instance = new EnchantedMazeFactory();
+                }
+                else
+                {
+                    instance = new MazeFactory();
+                }
+            }
+            return instance;
+        }
+
         public virtual Maze MakeMaze()
         {
             return new Maze();
