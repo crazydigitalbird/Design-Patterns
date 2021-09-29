@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionComposition", "RecursionComposition\RecursionComposition.csproj", "{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicComposite", "GraphicComposite\GraphicComposite.csproj", "{A447EE26-9EBE-4EDA-9443-0A56CBE99A22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A447EE26-9EBE-4EDA-9443-0A56CBE99A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A447EE26-9EBE-4EDA-9443-0A56CBE99A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A447EE26-9EBE-4EDA-9443-0A56CBE99A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A447EE26-9EBE-4EDA-9443-0A56CBE99A22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
