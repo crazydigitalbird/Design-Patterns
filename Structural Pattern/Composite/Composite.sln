@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{B0B15E2D-3722-4CB5-983D-9BC5D2DB053B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionComposition", "RecursionComposition\RecursionComposition.csproj", "{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B0B15E2D-3722-4CB5-983D-9BC5D2DB053B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0B15E2D-3722-4CB5-983D-9BC5D2DB053B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0B15E2D-3722-4CB5-983D-9BC5D2DB053B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE8D1E5-E9BC-4415-88E6-42423ABD6BC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
