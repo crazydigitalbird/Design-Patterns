@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProxy", "ImageProxy\ImageProxy.csproj", "{013266C9-8738-4630-8594-B482D4F1D2A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyCRUD", "ProxyCRUD\ProxyCRUD.csproj", "{0BFDF52A-1669-4002-B42B-E2A3A0E0D2F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{013266C9-8738-4630-8594-B482D4F1D2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{013266C9-8738-4630-8594-B482D4F1D2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{013266C9-8738-4630-8594-B482D4F1D2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFDF52A-1669-4002-B42B-E2A3A0E0D2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFDF52A-1669-4002-B42B-E2A3A0E0D2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFDF52A-1669-4002-B42B-E2A3A0E0D2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFDF52A-1669-4002-B42B-E2A3A0E0D2F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
