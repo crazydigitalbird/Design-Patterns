@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\bin\Debug\HelpHandler.exe.config
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\bin\Debug\HelpHandler.exe
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\bin\Debug\HelpHandler.pdb
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\obj\Debug\HelpHandler.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\obj\Debug\HelpHandler.Form1.resources
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\obj\Debug\HelpHandler.Properties.Resources.resources
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\obj\Debug\HelpHandler.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\obj\Debug\HelpHandler.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\obj\Debug\HelpHandler.exe
+C:\Users\Home\source\repos\ChainOfResposibility\HelpHandler\obj\Debug\HelpHandler.pdb
