@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\bin\Debug\MacroCommand.exe.config
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\bin\Debug\MacroCommand.exe
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\bin\Debug\MacroCommand.pdb
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\obj\Debug\MacroCommand.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\obj\Debug\MacroCommand.Document.resources
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\obj\Debug\MacroCommand.MainForm.resources
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\obj\Debug\MacroCommand.Properties.Resources.resources
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\obj\Debug\MacroCommand.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\obj\Debug\MacroCommand.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\obj\Debug\MacroCommand.exe
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Command\MacroCommand\obj\Debug\MacroCommand.pdb
