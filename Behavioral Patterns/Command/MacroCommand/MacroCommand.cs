@@ -2,7 +2,10 @@
 
 namespace MacroCommand
 {
+<<<<<<< HEAD
     class MacroCommand : Command
+	
+    class MacroCommand: Command
     {
         public readonly List<Command> Commands = new List<Command>();
 
