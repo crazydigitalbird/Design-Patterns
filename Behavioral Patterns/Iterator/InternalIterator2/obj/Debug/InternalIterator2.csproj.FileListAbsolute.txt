@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\InternalIterator2\bin\Debug\InternalIterator2.exe.config
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\InternalIterator2\bin\Debug\InternalIterator2.exe
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\InternalIterator2\bin\Debug\InternalIterator2.pdb
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\InternalIterator2\obj\Debug\InternalIterator2.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\InternalIterator2\obj\Debug\InternalIterator2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\InternalIterator2\obj\Debug\InternalIterator2.exe
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\InternalIterator2\obj\Debug\InternalIterator2.pdb

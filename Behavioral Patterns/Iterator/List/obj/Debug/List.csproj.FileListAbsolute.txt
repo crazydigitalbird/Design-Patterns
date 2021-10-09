@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\List\bin\Debug\List.exe.config
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\List\bin\Debug\List.exe
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\List\bin\Debug\List.pdb
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\List\obj\Debug\List.exe
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\List\obj\Debug\List.pdb

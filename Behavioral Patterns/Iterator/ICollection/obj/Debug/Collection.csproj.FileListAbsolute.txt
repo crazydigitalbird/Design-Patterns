@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\ICollection\bin\Debug\ICollection.exe.config
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\ICollection\bin\Debug\ICollection.exe
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\ICollection\bin\Debug\ICollection.pdb
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\ICollection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\ICollection\obj\Debug\ICollection.exe
+C:\Users\Home\source\repos\Design Patterns\Behavioral Patterns\Iterator\ICollection\obj\Debug\ICollection.pdb
