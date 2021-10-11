@@ -1,0 +1,6 @@
+﻿namespace NarrowAndWideInterface
+{
+    interface INarrowInterface
+    {
+    }
+}
