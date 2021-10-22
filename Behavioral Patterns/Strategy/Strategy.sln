@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{22E3C2CD-F93E-467F-9772-3F56574C85A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySort", "StrategySort\StrategySort.csproj", "{1383C73E-AD2E-4B0B-9114-45542BE9DF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E3C2CD-F93E-467F-9772-3F56574C85A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E3C2CD-F93E-467F-9772-3F56574C85A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E3C2CD-F93E-467F-9772-3F56574C85A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E3C2CD-F93E-467F-9772-3F56574C85A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1383C73E-AD2E-4B0B-9114-45542BE9DF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1383C73E-AD2E-4B0B-9114-45542BE9DF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1383C73E-AD2E-4B0B-9114-45542BE9DF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1383C73E-AD2E-4B0B-9114-45542BE9DF96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AAB1289-C43E-41DE-B669-C68507C78DC8}
+	EndGlobalSection
+EndGlobal
